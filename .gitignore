@@ -1,0 +1,10 @@
+# credentials
+.env
+kaggle.json
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# python system files
+__pycache__/
+*.pyc
